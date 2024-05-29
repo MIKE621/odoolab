@@ -1,2 +1,2 @@
 # odoolab
-Contributions para software open source odoo.
+Contributions for software open source odoo.
